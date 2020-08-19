@@ -20,7 +20,7 @@ I am also learning Clojure. I want to feed my functional language curiosity.
 
 🤔 I’m looking for help with explaining hard algorithms - Graphs, contract jobs on technical writing, software dev contracts are a plus too.
 
-You can also hire me to be your mentor - GSoC mentor in 2018.
+You can also hire me to be your mentor. I was a volunteer mentor in GSoC in 2018.
 
 ## Have a question?
 
