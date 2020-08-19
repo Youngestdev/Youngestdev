@@ -42,7 +42,7 @@ The following mediums can be used to reach me 📫:
 
 ## Fun Fact ⚡
 
-I'm a lazy dev! We're all lazy, no? Haha!
+I'm a lazy dev! We're all lazy, no? Haha! I have pretty interesting pinned projects, do check them :)
 
 <!--
 **Youngestdev/Youngestdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
