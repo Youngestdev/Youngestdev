@@ -14,7 +14,7 @@ I am also learning Clojure. I want to feed my functional language curiosity.
 
 ## Want to collaborate on something ?
 
-👯 I’m looking to collaborate on building APIs, technical documentations and even pair coding sessions not limited to problem solving.
+👯 I’m looking to collaborate on building APIs, technical documentations [PAID COLLABORATIONS], and even pair coding sessions not limited to problem solving.
 
 ## Want to help me ? 
 
