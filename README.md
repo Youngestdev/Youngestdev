@@ -4,7 +4,7 @@ Hi, I'm Abdulazeez ⚡ and, I love working with programs. I also love to write a
 
 ## What am I working on ?
 
- 🔭 I’m currently working on building simple tools and backend REST APIs. When I'm not building simple tools, I'm on [LeetCode](https://leetcode.com/_abdu) solving problems or writing about data structures [on my blog.](https://abdul.codes)
+ 🔭 I’m currently working on building simple tools and backend REST APIs. When I'm not building simple tools, I'm on [LeetCode](https://leetcode.com/_abdu) solving problems or writing about data structures [on my blog.](https://blog.youngest.dev)
 
 ## What am I learning ?
 
